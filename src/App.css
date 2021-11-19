@@ -2,9 +2,14 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.form {
+  height: 50%;
+  width: 50%;
+  margin: 100px auto;
+  padding: 20px;
+  box-shadow: 10px 11px 31px -3px rgba(0, 0, 0, 0.39);
+  -webkit-box-shadow: 10px 11px 31px -3px rgba(0, 0, 0, 0.39);
+  -moz-box-shadow: 10px 11px 31px -3px rgba(0, 0, 0, 0.39);
 }
 
 @media (prefers-reduced-motion: no-preference) {
